@@ -1,0 +1,47 @@
+body {
+    background-color: #333;
+    color: #fff;
+    font-family: "Lucida Console", Monaco, monospace;
+    font-size: 18px;
+    text-align: center;
+  }
+  
+  h1 {
+    margin: 0;
+    padding: 10px;
+    background-color: #444;
+    font-size: 24px;
+    text-align: center;
+  }
+  
+  button {
+    background-color: #444;
+    border: none;
+    color: #fff;
+    font-size: 16px;
+    padding: 50px;
+    margin: 50px;
+    cursor: pointer;
+  }
+  
+  #dados {
+    background-color: #222;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    font-size: 24px;
+  }
+  
+  #dados p {
+    margin: 0;
+  }
+  
+  mark {
+    background-color: #444;
+    color: #fff;
+    padding: 2px;
+  }
+  
+  strong {
+    color: #f00;
+  }
